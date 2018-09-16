@@ -21,6 +21,7 @@ If this project is worth your donation,
 可以将他复制到你的工程中直接调用CAdb 就可以开始进行ADB通讯了。
 支持的指令有shell, push, pull, forward.
 后续也许会增加 conncet 连接无线设备。
+工程依赖boost。链接输入项中有显示需要用到的库
 工程中有个简单的使用例子。
 
 支付宝:lfjking@qq.com
