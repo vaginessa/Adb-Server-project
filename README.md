@@ -12,9 +12,16 @@ I'll add something else later, like conncet..
 
 Issues can be used for communication.
 
+Alipay: lfjking@qq.com
+If this project is worth your donation,
+
+
 英文翻译的不知道对不对，还是用中文说的清楚点。
 这是个直接使用安卓adbd通讯协议写的一个C++对象工程。
 可以将他复制到你的工程中直接调用CAdb 就可以开始进行ADB通讯了。
 支持的指令有shell, push, pull, forward.
 后续也许会增加 conncet 连接无线设备。
 工程中有个简单的使用例子。
+
+支付宝:lfjking@qq.com
+如果觉得有价值捐助的话。
