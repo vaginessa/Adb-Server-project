@@ -6,7 +6,7 @@ After reading the ADB source code, I used Android's communication protocol to re
 It can communicate directly with adbd without adb.exe.
 You can copy it to your C++ project and use it directly.
 It depends on boost, so you need to build your boost library.
-You can see all the libraries in vs2013.
+You can see all the libraries in vs2013,and changed the path for your boost.
 At present, it only supports USB connection communication, supports shell, push, pull, forward.
 I'll add something else later, like conncet..
 
@@ -21,7 +21,7 @@ If this project is worth your donation,
 可以将他复制到你的工程中直接调用CAdb 就可以开始进行ADB通讯了。
 支持的指令有shell, push, pull, forward.
 后续也许会增加 conncet 连接无线设备。
-工程依赖boost。链接输入项中有显示需要用到的库
+工程依赖boost。链接输入项中有显示需要用到的库。路径修改到自己的boost。
 工程中有个简单的使用例子。
 
 支付宝:lfjking@qq.com
