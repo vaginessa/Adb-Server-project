@@ -1,4 +1,4 @@
-# Adb-Server-for-C-project
+# Adb-Server-for-C++-project
 this is a code of C++ to access android adbd
 
 After reading the ADB source code, I used Android's communication protocol to rewrite the project.
